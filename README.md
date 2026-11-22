@@ -10,28 +10,28 @@ If one of them is useful to you as well, that makes me very happy.
 
 ### 📡 MQTT
 
-- **[mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome)** ![](https://img.shields.io/github/stars/mqtt-smarthome/mqtt-smarthome?style=flat&label=%E2%98%85) – A convention for MQTT as the central bus of a smart home
-- **[she](https://github.com/hobbyquaker/she)** ![](https://img.shields.io/github/stars/hobbyquaker/she?style=flat&label=%E2%98%85) – Scriptable smart home automation engine
-- **[feezal](https://github.com/feezal/feezal)** ![](https://img.shields.io/github/stars/feezal/feezal?style=flat&label=%E2%98%85) – Build MQTT-driven apps and dashboards visually
-- **[mqtt2matter](https://github.com/hobbyquaker/mqtt2matter)** ![](https://img.shields.io/github/stars/hobbyquaker/mqtt2matter?style=flat&label=%E2%98%85) – Compose Matter devices and map them onto MQTT topics
+- **[mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome)** <sub>★&nbsp;454</sub> – A convention for MQTT as the central bus of a smart home
+- **[she](https://github.com/hobbyquaker/she)** <sub>★&nbsp;16</sub> – Scriptable smart home automation engine
+- **[feezal](https://github.com/feezal/feezal)** <sub>★&nbsp;14</sub> – Build MQTT-driven apps and dashboards visually
+- **[mqtt2matter](https://github.com/hobbyquaker/mqtt2matter)** – Compose Matter devices and map them onto MQTT topics
 
-**\*2mqtt bridges:** **[lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt)** ![](https://img.shields.io/github/stars/hobbyquaker/lgtv2mqtt?style=flat&label=%E2%98%85) · **[unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt)** ![](https://img.shields.io/github/stars/hobbyquaker/unifi2mqtt?style=flat&label=%E2%98%85) · **[influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)** ![](https://img.shields.io/github/stars/hobbyquaker/influx4mqtt?style=flat&label=%E2%98%85) · **[speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt)** ![](https://img.shields.io/github/stars/hobbyquaker/speedtest2mqtt?style=flat&label=%E2%98%85) · [… more](https://github.com/hobbyquaker?tab=repositories&q=mqtt)
+**\*2mqtt bridges:** **[lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt)** <sub>★&nbsp;114</sub> · **[unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt)** <sub>★&nbsp;80</sub> · **[influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)** <sub>★&nbsp;38</sub> · **[speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt)** <sub>★&nbsp;13</sub> · [… more](https://github.com/hobbyquaker?tab=repositories&q=mqtt)
 
 ### 🏠 Homematic
 
-- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** ![](https://img.shields.io/github/stars/openccu-lite/openccu-lite?style=flat&label=%E2%98%85) – CCU firmware for users of Home Assistant, ioBroker, Node-RED and others
-- **[RedMatic](https://github.com/rdmtc/RedMatic)** ![](https://img.shields.io/github/stars/rdmtc/RedMatic?style=flat&label=%E2%98%85) – Node-RED as an addon for the CCU3, OpenCCU and openccu-lite
-- **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** ![](https://img.shields.io/github/stars/hobbyquaker/homematic-manager?style=flat&label=%E2%98%85) – Device configuration and administration
-- **[awesome-homematic](https://github.com/homematic-community/awesome-homematic)** ![](https://img.shields.io/github/stars/homematic-community/awesome-homematic?style=flat&label=%E2%98%85) – A curated list of Homematic links
+- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** <sub>★&nbsp;12</sub> – CCU firmware for users of Home Assistant, ioBroker, Node-RED and others
+- **[RedMatic](https://github.com/rdmtc/RedMatic)** <sub>★&nbsp;527</sub> – Node-RED as an addon for the CCU3, OpenCCU and openccu-lite
+- **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** <sub>★&nbsp;198</sub> – Device configuration and administration
+- **[awesome-homematic](https://github.com/homematic-community/awesome-homematic)** <sub>★&nbsp;213</sub> – A curated list of Homematic links
 
-**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** ![](https://img.shields.io/github/stars/hobbyquaker/hm2mqtt.js?style=flat&label=%E2%98%85) · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** ![](https://img.shields.io/github/stars/homematic-community/ccu-addon-mosquitto?style=flat&label=%E2%98%85) · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** ![](https://img.shields.io/github/stars/hobbyquaker/ccu-addon-battery?style=flat&label=%E2%98%85) · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
+**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** <sub>★&nbsp;22</sub> · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** <sub>★&nbsp;34</sub> · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
 
 ### 📚 Libraries
 
-- **[lgtv2](https://github.com/hobbyquaker/lgtv2)** ![](https://img.shields.io/github/stars/hobbyquaker/lgtv2?style=flat&label=%E2%98%85) – Control LG webOS TVs from Node.js
-- **[artnet](https://github.com/hobbyquaker/artnet)** ![](https://img.shields.io/github/stars/hobbyquaker/artnet?style=flat&label=%E2%98%85) – Art-Net / DMX512 for Node.js
+- **[lgtv2](https://github.com/hobbyquaker/lgtv2)** <sub>★&nbsp;353</sub> – Control LG webOS TVs from Node.js
+- **[artnet](https://github.com/hobbyquaker/artnet)** <sub>★&nbsp;126</sub> – Art-Net / DMX512 for Node.js
 
-**Homematic and CUL:** **[binrpc](https://github.com/hobbyquaker/binrpc)** ![](https://img.shields.io/github/stars/hobbyquaker/binrpc?style=flat&label=%E2%98%85) · **[cul](https://github.com/hobbyquaker/cul)** ![](https://img.shields.io/github/stars/hobbyquaker/cul?style=flat&label=%E2%98%85) · **[homematic-rega](https://github.com/hobbyquaker/homematic-rega)** · **[homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc)** · **[hm-simulator](https://github.com/hobbyquaker/hm-simulator)**
+**Homematic and CUL:** **[binrpc](https://github.com/hobbyquaker/binrpc)** <sub>★&nbsp;15</sub> · **[cul](https://github.com/hobbyquaker/cul)** <sub>★&nbsp;28</sub> · **[homematic-rega](https://github.com/hobbyquaker/homematic-rega)** · **[homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc)** · **[hm-simulator](https://github.com/hobbyquaker/hm-simulator)**
 
 ### 🎮 Games
 
@@ -42,7 +42,7 @@ If one of them is useful to you as well, that makes me very happy.
 
 - **[ebr](https://github.com/hobbyquaker/ebr)** – Thread border router from ESP32 parts (P4 + H2) with a status display, joins Apple Home's Thread network as a Matter device
 - **[discowall](https://github.com/hobbyquaker/discowall)** – Forwards mDNS and SSDP between a router's interfaces, by rules
-- **[hanmatek-hm310p](https://github.com/hobbyquaker/hanmatek-hm310p)** ![](https://img.shields.io/github/stars/hobbyquaker/hanmatek-hm310p?style=flat&label=%E2%98%85) – App for the HM310P DC power supply, with charts and CSV
+- **[hanmatek-hm310p](https://github.com/hobbyquaker/hanmatek-hm310p)** <sub>★&nbsp;51</sub> – App for the HM310P DC power supply, with charts and CSV
 - **[wifi-usb-relay](https://github.com/hobbyquaker/wifi-usb-relay)** – Wi-Fi relay, USB-C in, USB-A out
 
 ## Earlier projects
@@ -51,13 +51,13 @@ If one of them is useful to you as well, that makes me very happy.
 <summary>No longer maintained, but they had their moment.</summary>
 
 - **[ioBroker](https://github.com/ioBroker)** – Founded ioBroker as ccu.io's successor; today a large open-source smart home platform
-- **[ccu.io](https://github.com/hobbyquaker/ccu.io)** ![](https://img.shields.io/github/stars/hobbyquaker/ccu.io?style=flat&label=%E2%98%85) – Script engine, adapters and web server for the Homematic CCU, where ioBroker started
-- **[homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)** ![](https://img.shields.io/github/stars/hobbyquaker/homekit2mqtt?style=flat&label=%E2%98%85) – HomeKit ⇄ MQTT bridge
-- **[mqtt-admin](https://github.com/hobbyquaker/mqtt-admin)** ![](https://img.shields.io/github/stars/hobbyquaker/mqtt-admin?style=flat&label=%E2%98%85) – MQTT web frontend
-- **[node-red-contrib-zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee)** ![](https://img.shields.io/github/stars/hobbyquaker/node-red-contrib-zigbee?style=flat&label=%E2%98%85) – Zigbee nodes for Node-RED
-- **[mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts)** ![](https://img.shields.io/github/stars/hobbyquaker/mqtt-scripts?style=flat&label=%E2%98%85) – Script runner for MQTT smart homes
-- **[DashUI](https://github.com/hobbyquaker/DashUI)** ![](https://img.shields.io/github/stars/hobbyquaker/DashUI?style=flat&label=%E2%98%85) – Early Homematic user interface, it became ioBroker.vis
-- **[hq-webui](https://github.com/homematic-community/hq-webui)** ![](https://img.shields.io/github/stars/homematic-community/hq-webui?style=flat&label=%E2%98%85) – A fast alternative web UI for the Homematic CCU
+- **[ccu.io](https://github.com/hobbyquaker/ccu.io)** <sub>★&nbsp;64</sub> – Script engine, adapters and web server for the Homematic CCU, where ioBroker started
+- **[homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)** <sub>★&nbsp;359</sub> – HomeKit ⇄ MQTT bridge
+- **[mqtt-admin](https://github.com/hobbyquaker/mqtt-admin)** <sub>★&nbsp;129</sub> – MQTT web frontend
+- **[node-red-contrib-zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee)** <sub>★&nbsp;84</sub> – Zigbee nodes for Node-RED
+- **[mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts)** <sub>★&nbsp;62</sub> – Script runner for MQTT smart homes
+- **[DashUI](https://github.com/hobbyquaker/DashUI)** <sub>★&nbsp;37</sub> – Early Homematic user interface, it became ioBroker.vis
+- **[hq-webui](https://github.com/homematic-community/hq-webui)** <sub>★&nbsp;50</sub> – A fast alternative web UI for the Homematic CCU
 
 </details>
 
