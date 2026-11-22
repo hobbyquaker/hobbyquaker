@@ -14,6 +14,7 @@ If one of them is useful to you as well, that makes me very happy.
 - **[she](https://github.com/hobbyquaker/she)** <small>★&nbsp;16</small> – Scriptable smart home automation engine
 - **[feezal](https://github.com/feezal/feezal)** <small>★&nbsp;14</small> – Build MQTT-driven apps and dashboards visually
 - **[mqtt2matter](https://github.com/hobbyquaker/mqtt2matter)** – Compose Matter devices and map them onto MQTT topics
+- **[awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt)** <small>★&nbsp;2414</small> – A curated list of MQTT brokers, clients, tools and resources
 
 **\*2mqtt bridges:** **[lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt)** <small>★&nbsp;114</small> · **[unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt)** <small>★&nbsp;80</small> · **[influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)** <small>★&nbsp;38</small> · **[speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt)** <small>★&nbsp;13</small> · [… more](https://github.com/hobbyquaker?tab=repositories&q=mqtt)
 
