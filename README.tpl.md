@@ -26,6 +26,10 @@ If one of them is useful to you as well, that makes me very happy.
 
 **openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
 
+### 🧩 Node-RED
+
+**[node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu)** · **[node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv)** · **[RedMatic-HomeKit](https://github.com/rdmtc/RedMatic-HomeKit)** · **[RedMatic-Matter](https://github.com/rdmtc/RedMatic-Matter)** · [… more](https://github.com/search?q=node-red-contrib+in%3Aname+user%3Ahobbyquaker+user%3Ardmtc&type=repositories)
+
 ### 📚 Libraries
 
 - **[lgtv2](https://github.com/hobbyquaker/lgtv2)** – Control LG webOS TVs from Node.js
