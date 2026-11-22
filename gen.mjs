@@ -22,6 +22,6 @@ for (const r of repos) {
 }
 const out = head.replace(link, (m, b1, _t, o, r) => {
   const n = stars[`${o}/${r}`];
-  return n >= MIN ? `${m} <sub>★&nbsp;${n}</sub>` : m;
+  return n >= MIN ? `${m} <small>★&nbsp;${n}</small>` : m;
 }) + tail;
 writeFileSync(new URL('./README.md', import.meta.url), out);
