@@ -20,12 +20,12 @@ If one of them is useful to you as well, that makes me very happy.
 
 ### 🏠 Homematic
 
-- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** <small>★&nbsp;12</small> – CCU firmware for users of Home Assistant, ioBroker, Node-RED and others
+- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** <small>★&nbsp;13</small> – CCU firmware for users of Home Assistant, ioBroker, Node-RED and others
 - **[RedMatic](https://github.com/rdmtc/RedMatic)** <small>★&nbsp;528</small> – Node-RED as an addon for the CCU3, OpenCCU and openccu-lite
-- **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** <small>★&nbsp;198</small> – Device configuration and administration
+- **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** <small>★&nbsp;199</small> – Device configuration and administration
 - **[awesome-homematic](https://github.com/homematic-community/awesome-homematic)** <small>★&nbsp;213</small> – A curated list of Homematic links
 
-**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** <small>★&nbsp;22</small> · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** <small>★&nbsp;34</small> · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
+**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** <small>★&nbsp;23</small> · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** <small>★&nbsp;34</small> · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
 
 ### 🧩 Node-RED
 
@@ -34,7 +34,7 @@ If one of them is useful to you as well, that makes me very happy.
 ### 📚 Libraries
 
 - **[lgtv2](https://github.com/hobbyquaker/lgtv2)** <small>★&nbsp;353</small> – Control LG webOS TVs from Node.js
-- **[artnet](https://github.com/hobbyquaker/artnet)** <small>★&nbsp;126</small> – Art-Net / DMX512 for Node.js
+- **[artnet](https://github.com/hobbyquaker/artnet)** <small>★&nbsp;125</small> – Art-Net / DMX512 for Node.js
 
 **Homematic and CUL:** **[binrpc](https://github.com/hobbyquaker/binrpc)** <small>★&nbsp;15</small> · **[cul](https://github.com/hobbyquaker/cul)** <small>★&nbsp;28</small> · **[homematic-rega](https://github.com/hobbyquaker/homematic-rega)** · **[homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc)** · **[hm-simulator](https://github.com/hobbyquaker/hm-simulator)**
 
