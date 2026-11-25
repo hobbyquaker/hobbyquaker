@@ -47,6 +47,7 @@ If one of them is useful to you as well, that makes me very happy.
 
 - **[ebr](https://github.com/hobbyquaker/ebr)** – Thread border router from ESP32 parts (P4 + H2) with a status display, joins Apple Home's Thread network as a Matter device
 - **[discowall](https://github.com/hobbyquaker/discowall)** – Forwards mDNS and SSDP between a router's interfaces, by rules
+- **[… more](https://github.com/hobbyquaker?tab=repositories)**
 
 ## Earlier projects
 
