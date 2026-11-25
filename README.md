@@ -20,7 +20,7 @@ If one of them is useful to you as well, that makes me very happy.
 
 ### 🏠 Homematic
 
-- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** <small>★&nbsp;13</small> – CCU firmware for users of Home Assistant, ioBroker, Node-RED and others
+- **[openccu-lite](https://github.com/openccu-lite/openccu-lite)** <small>★&nbsp;13</small> – Alternative Homematic CCU Firmware, Fork of OpenCCU
 - **[RedMatic](https://github.com/rdmtc/RedMatic)** <small>★&nbsp;528</small> – Node-RED as an addon for the CCU3, OpenCCU and openccu-lite
 - **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** <small>★&nbsp;199</small> – Device configuration and administration
 - **[awesome-homematic](https://github.com/homematic-community/awesome-homematic)** <small>★&nbsp;213</small> – A curated list of Homematic links
