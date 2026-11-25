@@ -47,8 +47,7 @@ If one of them is useful to you as well, that makes me very happy.
 
 - **[ebr](https://github.com/hobbyquaker/ebr)** – Thread border router from ESP32 parts (P4 + H2) with a status display, joins Apple Home's Thread network as a Matter device
 - **[discowall](https://github.com/hobbyquaker/discowall)** – Forwards mDNS and SSDP between a router's interfaces, by rules
-- **[hanmatek-hm310p](https://github.com/hobbyquaker/hanmatek-hm310p)** – App for the HM310P DC power supply, with charts and CSV
-- **[wifi-usb-relay](https://github.com/hobbyquaker/wifi-usb-relay)** – Wi-Fi relay, USB-C in, USB-A out
+- **[… more](https://github.com/hobbyquaker?tab=repositories)**
 
 ## Earlier projects
 
