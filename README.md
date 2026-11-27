@@ -25,11 +25,11 @@ If one of them is useful to you as well, that makes me very happy.
 - **[homematic-manager](https://github.com/hobbyquaker/homematic-manager)** <small>★&nbsp;199</small> – Device configuration and administration
 - **[awesome-homematic](https://github.com/homematic-community/awesome-homematic)** <small>★&nbsp;213</small> – A curated list of Homematic links
 
-**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** <small>★&nbsp;23</small> · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** <small>★&nbsp;34</small> · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
+**openccu-lite and (Open)CCU Addons:** **[hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)** <small>★&nbsp;23</small> · **[ccu-addon-mosquitto](https://github.com/homematic-community/ccu-addon-mosquitto)** <small>★&nbsp;35</small> · **[ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery)** · [… more](https://github.com/orgs/openccu-lite/repositories?q=addon)
 
 ### 🧩 Node-RED
 
-**[node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu)** <small>★&nbsp;70</small> · **[node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv)** <small>★&nbsp;61</small> · **[RedMatic-HomeKit](https://github.com/rdmtc/RedMatic-HomeKit)** <small>★&nbsp;56</small> · **[RedMatic-Matter](https://github.com/rdmtc/RedMatic-Matter)** · [… more](https://github.com/search?q=node-red-contrib+in%3Aname+user%3Ahobbyquaker+user%3Ardmtc&type=repositories)
+**[node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu)** <small>★&nbsp;70</small> · **[node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv)** <small>★&nbsp;62</small> · **[RedMatic-HomeKit](https://github.com/rdmtc/RedMatic-HomeKit)** <small>★&nbsp;56</small> · **[RedMatic-Matter](https://github.com/rdmtc/RedMatic-Matter)** · [… more](https://github.com/search?q=node-red-contrib+in%3Aname+user%3Ahobbyquaker+user%3Ardmtc&type=repositories)
 
 ### 📚 Libraries
 
